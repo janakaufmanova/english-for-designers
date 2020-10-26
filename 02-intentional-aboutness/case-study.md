@@ -27,13 +27,10 @@ App:
 - much better acquaintance with the exhibition
 - the visitor knows in advance what he is getting into
 
+I created logo right at the beginning - it represents the idea of “find the one gallery, that suits your style” or "find the one for you" = **“findone”**
 
-
-
-
-
-Right at the beginning, I created logo - it represents the idea of “find the one gallery, that suits your style” or "find the one for you" = **“findone”**
 ![logo-findone](./img/logo-findone.jpg)
+
 `Findone logo`
 
 
