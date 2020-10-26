@@ -4,7 +4,10 @@ As a graphic designer student, I should be able to learn, how to work in a graph
 
 I wanted to create an app, which would search a local galleries and museums around you and give you recommendations. This would help you with any kind of decision-making, which art movement you like and which don’t. It would be a lot easier for you to know, what kind of art galleries/museums are around you. 
 
-Right at the beginning, I created logo - it represents the idea of “find the one gallery, that suits your style” or "find the one for you" = “findone” 
+Right at the beginning, I created logo - it represents the idea of “find the one gallery, that suits your style” or "find the one for you" = **“findone”**
+
+![logo-findone](./img/logo-findone.jpg)
+`Findone logo`
 
 
 
