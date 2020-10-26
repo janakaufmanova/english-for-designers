@@ -4,8 +4,30 @@ As a graphic designer student, I should be able to learn, how to work in a graph
 
 I wanted to create an app, which would search a local galleries and museums around you and give you recommendations. This would help you with any kind of decision-making, which art movement you like and which don’t. It would be a lot easier for you to know, what kind of art galleries/museums are around you. 
 
-Right at the beginning, I created logo - it represents the idea of “find the one gallery, that suits your style” or "find the one for you" = **“findone”**
+So I decided to visit an art gallery myself and try to find out, what is wrong and how to fix the problem with my “future app”. I went to Jihlava Movie Festival Art Gallery and this is what I came with:
 
+**Information**
+- poor promotion of the exhibition, no information about the exhibition: (what is the main idea and direction of the exhibition, biography of the author, ...)
+- some information was traceable only on the facebook pages of the Jihlava Movie Festival, in terms of promoting the exhibition, the idea was not apparent at all 
+
+![jihlava_festival_01](./img/jihlava_festival_01.jpg)
+`Jihlava Movie Festival Art Gallery`
+
+**Solution**
+App:
+- a map focused on the local galleries / museums / archives
+- localizable by the visitor
+- informative description of the local exhibition (biography of the artist, artistic direction of the exhibition, general idea of ​​the exhibition)
+- reviews by previous visitors of the exhibition  (better feedback)
+- much better acquaintance with the exhibition
+- the visitor knows in advance what he is getting into
+
+
+
+
+
+
+Right at the beginning, I created logo - it represents the idea of “find the one gallery, that suits your style” or "find the one for you" = **“findone”**
 ![logo-findone](./img/logo-findone.jpg)
 `Findone logo`
 
