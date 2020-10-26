@@ -11,6 +11,11 @@ So I decided to visit an art gallery myself and try to find out, what is wrong a
 - some information was traceable only on the facebook pages of the Jihlava Movie Festival, in terms of promoting the exhibition, the idea was not apparent at all 
 
 ![jihlava_festival_01](./img/jihlava_festival_01.jpg)
+
+`Jihlava Movie Festival Art Gallery`
+
+![jihlava_festival_02](./img/jihlava_festival_02.jpg)
+
 `Jihlava Movie Festival Art Gallery`
 
 **Solution**
