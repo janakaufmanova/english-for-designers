@@ -6,7 +6,7 @@ I wanted to create an app, which would search a local galleries and museums arou
 
 Right at the beginning, I created logo - it represents the idea of “find the one gallery, that suits your style” or "find the one for you" = “findone” 
 
-![logo-findone.](./img/logo-findone.jpg)
+![logo-findone](./img/logo-findone.jpg)
 `Logo Findone.`
 
 
