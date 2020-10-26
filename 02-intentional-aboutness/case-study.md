@@ -19,6 +19,7 @@ So I decided to visit an art gallery myself and try to find out, what is wrong a
 `Jihlava Movie Festival Art Gallery`
 
 **Solution**
+
 App:
 - a map focused on the local galleries / museums / archives
 - localizable by the visitor
@@ -36,6 +37,11 @@ I created logo right at the beginning - it represents the idea of “find the on
 ![visual_style](./img/visual_style.jpg)
 
 `Visual style`
+
+![adobe_x](./img/adobe_x.png)
+
+`Prototype of Findone Mobile App`
+
 
 
 
