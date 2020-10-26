@@ -33,6 +33,10 @@ I created logo right at the beginning - it represents the idea of “find the on
 
 `Findone logo`
 
+![visual_style](./img/visual_style.jpg)
+
+`Visual style`
+
 
 
 
