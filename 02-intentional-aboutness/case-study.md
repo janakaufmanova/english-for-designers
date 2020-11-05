@@ -73,8 +73,6 @@ I created logo right at the beginning - it represents the idea of “find the on
 
 `BEFORE AFTER - typography, "Find the one" `
 
-`Prototype of Findone Mobile App`
-
 <video controls src="video/findone-preview-app.mp4">
 
 [Findone preview.](https://janakaufmanova.github.io/english-for-designers/02-intentional-aboutness/case-study)
