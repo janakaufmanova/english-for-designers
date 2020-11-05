@@ -63,8 +63,7 @@ I created logo right at the beginning - it represents the idea of “find the on
 
 ![registration-screen-centered](./img/registration-screen-centered.png)
 
-
-![login-sreen-centered](./img/login-sreen-centered.png)
+![smaller-spacing](./img/smaller-spacing.png)
 
 `Prototype of Findone Mobile App`
 
