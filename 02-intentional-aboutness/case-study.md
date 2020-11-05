@@ -59,11 +59,12 @@ I created logo right at the beginning - it represents the idea of “find the on
 - section "Art events you visited" - respondents described it as completely motivating, a great overview of WHEN and WHAT respondents visited
 - overall good impression
 
-**feedback**
+**Feedback - Before and After**
 
 ![registration-screen-centered](./img/registration-screen-centered.png)
 
-`BEFORE AFTER`
+
+![login-sreen-centered](./img/login-sreen-centered.png)
 
 `Prototype of Findone Mobile App`
 
