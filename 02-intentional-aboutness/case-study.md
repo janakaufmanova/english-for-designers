@@ -65,6 +65,10 @@ I created logo right at the beginning - it represents the idea of “find the on
 
 ![smaller-spacing](./img/smaller-spacing.png)
 
+![typography](./img/typography.png)
+
+
+
 `Prototype of Findone Mobile App`
 
 <video controls src="video/findone-preview-app.mp4">
