@@ -61,7 +61,9 @@ I created logo right at the beginning - it represents the idea of “find the on
 
 **feedback**
 
+![registration-screen-centered](./img/registration-screen-centered.png)
 
+`BEFORE AFTER`
 
 `Prototype of Findone Mobile App`
 
