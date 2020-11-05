@@ -59,13 +59,19 @@ I created logo right at the beginning - it represents the idea of “find the on
 - section "Art events you visited" - respondents described it as completely motivating, a great overview of WHEN and WHAT respondents visited
 - overall good impression
 
-**Feedback - Before and After**
+**Feedback**
 
 ![registration-screen-centered](./img/registration-screen-centered.png)
 
+`BEFORE AFTER - registration screen centered`
+
 ![smaller-spacing](./img/smaller-spacing.png)
 
+`BEFORE AFTER - smaller spacing`
+
 ![typography](./img/typography.png)
+
+`BEFORE AFTER - typography, "Find the one" `
 
 
 
