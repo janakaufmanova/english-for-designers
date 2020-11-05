@@ -40,10 +40,15 @@ I created logo right at the beginning - it represents the idea of “find the on
 
 ![adobe_x](./img/adobe_x.png)
 
+
+
 `Prototype of Findone Mobile App`
 
+<video controls src="findone-preview-app.mp4" width="100%">
 
-
+[findone-preview-app.] (https://github.com/janakaufmanova/english-for-designers/02-intentional-aboutness/case-study)
+</video>
+  
 
 
 
