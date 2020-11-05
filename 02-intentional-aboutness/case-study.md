@@ -31,6 +31,9 @@ App:
 I created logo right at the beginning - it represents the idea of “find the one gallery, that suits your style” or "find the one for you" = **“findone”**
 
 ![logo-findone](./img/logo-findone.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://janakaufmanova.github.io/english-for-designers/02-international-aboutness">
+</p>
 
 `Findone logo`
 
