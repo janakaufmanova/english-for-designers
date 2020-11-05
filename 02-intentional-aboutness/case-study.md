@@ -40,6 +40,27 @@ I created logo right at the beginning - it represents the idea of “find the on
 
 ![adobe_x](./img/adobe_x.png)
 
+**User testing process**
+
+**negative**
+1. Login / Registration Screen
+- logo and button centered, other parameters are asymmetrical = align everything to the center or left
+- small gaps between registration and login data
+2. Spaces and font size
+- spacing is too large between individual events (inconsistent, unsorted)
+- unnecessarily large dates and spaces in the "Art Events you visited" section
+- username too small
+3. Typographic imperfections, negligence
+4. Incorrectly aligned buttons in the "Your wish list" section
+
+**positive**
+- minimalistic visual style with a few distinctive elements
+- notification on current event are very useful 
+- section "Art events you visited" - respondents described it as completely motivating, a great overview of WHEN and WHAT respondents visited
+- overall good impression
+
+**feedback**
+
 
 
 `Prototype of Findone Mobile App`
