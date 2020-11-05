@@ -44,9 +44,10 @@ I created logo right at the beginning - it represents the idea of “find the on
 
 `Prototype of Findone Mobile App`
 
-<video controls src="findone-preview-app.mp4" width="100%">
+<video controls src="video/findone-preview-app.mp4" width="100%">
 
-[findone-preview-app.] (https://github.com/janakaufmanova/english-for-designers/02-intentional-aboutness/case-study)
+[findone-preview-app.] (https://janakaufmanova.github.io/english-for-designers/02-intentional-aboutness/case-study)
+
 </video>
   
 
