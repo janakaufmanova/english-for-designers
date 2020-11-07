@@ -10,4 +10,4 @@
 
 - - -
 
-[Home] (https://janakaufmanova.github.io/english-for-designers)
+[Home] (https://github.com/janakaufmanova/english-for-designers)
