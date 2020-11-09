@@ -1,4 +1,3 @@
 # Jana Kaufmanová
 
-[My resume.](https://janakaufmanova.github.io/english-for-designers/03-curriculum-vitace)
-
+![cv-janakaufmanova](./img/cv-janakaufmanova.pdf)
