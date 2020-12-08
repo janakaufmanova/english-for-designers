@@ -45,4 +45,4 @@ I was involved in the preparation of 24th Ji.Hlava International Documentary Fi
 - Creative
 - Positive
 
-![My resume.](cv-janakaufmanova.pdf)
+![My resume.](cv_jana_kaufmanova.pdf)
