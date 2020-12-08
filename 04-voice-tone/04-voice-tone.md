@@ -1,4 +1,4 @@
-# Copying 
+# My story
 When I was a little girl, I though that copying someone or something was totally illegal and I was really scared to do it. 
 Making illustrations  (in czech památník) was really a big thing at that time. Everyone in my class and all my closest friends owned their *Memory book* full off illustrations. It was something like a collection, that you carried with you all the time. The goal was to give it to one of your friends to draw something really nice for you (in memory). 
 
