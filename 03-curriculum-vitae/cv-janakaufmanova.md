@@ -6,7 +6,7 @@ Knowledge of Adobe’s creative apps:
 **InDesign, Illustrator, Photoshop,  Adobe XD,
 After effects**
 
-###  Education
+##  Education
 
 2018 – 2021 
 
@@ -21,7 +21,7 @@ As a student of this programme I am encouraged to both perfect my critical think
 
 General overview, prepares students for university entrance.
 
-### Experience
+## Experience
 
 October 2019 - December 2019
 
@@ -36,7 +36,7 @@ I was involved in the preparation of 24th Ji.Hlava International Documentary Fi
 - Webediting (information updates)
 - Graphic Design (banner design)
 
-### Skills
+## Skills
 
 - Hardworking 
 - Flexible
