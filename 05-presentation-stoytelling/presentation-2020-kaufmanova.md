@@ -11,7 +11,7 @@ It was my graduation year, when I finally opened my eyes and realized, that math
 
 ## 2.  UNIVERSITY
 
-It’s been exactly 3 years since I devoted myself to graphic design and I decided to go to university. I had to catch up on a lot of things, but it was the right decision to make. During these three years, I have clarified which art styles, typography and type of illustrations I like. 
+It’s been exactly 3 years since I devoted myself to graphic design and I decided to go to university. I had to catch up on a lot of things, but it was the right decision to make. During these three years, I have identified which art styles, typography and type of illustrations I like. 
 This is the time, when I educated myself and fell in love with minimalism.
 
 ## 3. MINIMALISM
