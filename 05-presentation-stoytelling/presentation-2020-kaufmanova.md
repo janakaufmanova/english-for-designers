@@ -24,4 +24,8 @@ I really enjoy drawing illustrations that are messy, freehand, spontaneous, impr
 But I was also kind of wrong. I think that drawing is about how you see things differently and what kind of style you prefer. It's about your emotions you put in there. 
 So if you are not able to draw as good as a black and white photo like me, nothing happens. It is not about that. 
 
+## 5. NEW ME
+
+When I look back at my high school memories, it makes me think about how scared I was to do something differently than others. I was always trying to fit perfetly even if i didn't enjoy it. Now I see it clearly. 
+
 
