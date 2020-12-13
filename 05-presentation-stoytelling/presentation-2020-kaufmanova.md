@@ -16,13 +16,12 @@ This is the time, when I educated myself and fell in love with minimalism.
 
 ## 3. MINIMALISM
 
-At the beginning I wasn't sure, what minimalism stands for. The key for minimalism is to bring the most important content to the front and reduce distraction for the user so If a design has too many elements it can be difficult to understand where to look and what is the main purpose of the design. 
-That’s why I love those minimal, content focused designes - you provide mainly information that has style and clarity. 
-It is a design that breathes, it is uncluttered and it is unique in it’s simplicity, elegance.
-It has one graphic element that brings the attention. Nothing more. You don’t even  have a chance to be lost in it.  
+At the beginning I wasn't sure, what minimalism stands for in a graphic industry. I have always thought that minimalism is typical for it's flat  and boring stuff, with no point of view. But I was wrong. The key for minimalism is to bring the most important content to the front and reduce distraction for the user. So If a design has too many elements it can be difficult to understand where to look and what is the main purpose of the design. That’s why I love those minimal, content focused designes - you provide mainly information that has style and clarity. It is a design that breathes, it is uncluttered and it is unique in it’s simplicity, elegance. It has one graphic element that brings the attention. Nothing more. You don’t even have a chance to be lost in it and think about it too much. 
 
 ## 4. ILLUSTRATIONS 
 
-I really enjoy drawing illustrations that are not perfect. 
+I really enjoy drawing illustrations that are messy, freehand, spontaneous, impresice, ... When I started learning, how to draw in the university, I've always thought, that everything is about how precise you are. If you would be able to draw an illustration as good as a black and white photo, you would be the best! 
+But I was also kind of wrong. I think that drawing is about how you see things differently and what kind of style you prefer. It's about your emotions you put in there. 
+So if you are not able to draw as good as a black and white photo like me, nothing happens. It is not about that. 
 
 
