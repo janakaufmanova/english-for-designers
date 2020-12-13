@@ -16,7 +16,7 @@ This is the time, when I educated myself and fell in love with minimalism.
 
 ## 3. MINIMALISM
 
-The key for minimalism is to bring the most important content to the front and reduce distraction for the user so If a design has too many elements it can be difficult to understand where to look and what is the main purpose of the design. 
+At the beginning I wasn't sure, what minimalism stands for. The key for minimalism is to bring the most important content to the front and reduce distraction for the user so If a design has too many elements it can be difficult to understand where to look and what is the main purpose of the design. 
 That’s why I love those minimal, content focused designes - you provide mainly information that has style and clarity. 
 It is a design that breathes, it is uncluttered and it is unique in it’s simplicity, elegance.
 It has one graphic element that brings the attention. Nothing more. You don’t even  have a chance to be lost in it.  
