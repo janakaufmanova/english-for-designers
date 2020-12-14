@@ -7,6 +7,8 @@ I grow up in a very industrial part of the Czech Republic, where ART is a unknow
 
 Everything started in high school, where I didn’t know what to do with myself. I was always trying to understand math, or physics, but it was never enough. I didn’t have the best grades from those subjects, I put a lot of effort in those years in vain. I have already knew, that i never become an engineer. 
 
+![fuck](./img/like.jpg)
+
 It was my graduation year, when I finally opened my eyes and realized, that math and physics is as much important as subjects like: history and art. That was the true me. I didn’t even noticed  it throughout the years. It was time to go out of my comfort zone.
 
 ## 2.  UNIVERSITY
