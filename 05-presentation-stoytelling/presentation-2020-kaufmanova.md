@@ -41,4 +41,7 @@ So if you are not able to draw as good as a black and white photo like me, nothi
 
 When I look back at my high school memories, it makes me think about how scared I was to do something differently than others. I was always trying to fit perfectly even if I didn't enjoy it. Now I see it clearly. 
 
+![final presentation](finals.pdf)
+
+
 
