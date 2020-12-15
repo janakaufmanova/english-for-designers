@@ -7,7 +7,6 @@
 
 - [Case Study](02-intentional-aboutness/case-study)
 - [Character & Description](01-character-description/character-description)
-- [Curriculum vitae] (03-curriculum-vitae)
 - [Voice tone] (04-voice-tone)
 - [Presentation stoytelling] (05-presentation-stoytelling)
 
