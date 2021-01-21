@@ -7,8 +7,8 @@
 
 - [Case Study](02-intentional-aboutness/case-study)
 - [Character & Description](01-character-description/character-description)
-- [Voice tone](04-voice-tone)
-- [Presentation stoytelling](05-presentation-stoytelling)
+- [Voice tone](04-voice-tone/O4-vocice-tone)
+- [Presentation stoytelling](05-presentation-stoytelling/presentation-2020-kaufmanova)
 
 
 - - -
