@@ -5,7 +5,7 @@ This bachelor's thesis is based on a redesign of the visual identity of the Tři
 <details>
   <summary>Mind Map</summary>
 
-  ![mind-map.](./img/mind-map.png)
+  ![mind_map.](./img/mind_map.png)
 </details>
 
 - **Voice:** inspirational, creative, personal
