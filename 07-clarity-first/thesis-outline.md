@@ -18,3 +18,17 @@ This bachelor's thesis is based on a redesign of the visual identity of the Tři
 3. Communicating with gallery curator.
 3. Design of a new logotype that speaks to art and industry at the same time.
 4. Creating new communication strategy. 
+
+## Keywords
+
+**Marketing communication** - Communication tool of the companies with direct message and with intetion persuade them to purchase.
+
+**Visual identity** - Visual elements of the company,that represents the main idea and purpose. 
+
+**Graphic design** - Use of a visual elements that can direct a messege.
+
+## References
+
+KAFKA, Ondřej, KOTYZA, Michal. Logo & Corporate Identity. Praha: Grafické studio Kafka design, 2014, ISBN 9788026067719.
+VYSEKALOVÁ, Jitka, MIKEŠ, Jiří. Image a firemní identita. Praha: Grada publishing, 2009, ISBN 9788024767307.
+SAMARA, Thimothy. Grafický design - Základní pravidla a způsoby jejich porušování. Praha: Slovart, 2016, ISBN 9788075290465.
