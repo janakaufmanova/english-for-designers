@@ -45,6 +45,8 @@ The overall concept of a unified visual style is based on the industriality of t
 The symbolic representation of the hammer also becomes part of the new industrial visual style of the Třinec City Gallery. The letter t corresponds to the shape of a hammer and at the same time justifies the name of the city in which the gallery is located. The connecting element of the logo is also the letter g, which represents the gallery and addresses the target group.
 The most important element of the logo and the whole visual style lies in the gap that is located between these two main symbols. This gap symbolizes the gap between the public and art, which the Třinec City Gallery is trying to fill.
 
+![explication](./img/explication.png)
+
 
 
 
