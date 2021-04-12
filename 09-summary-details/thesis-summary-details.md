@@ -16,9 +16,31 @@ My bachelor's thesis focuses on the complete visual identity of The Art Gallery 
 
 ![gallery_logo](./img/gallery_logo.jpg)
 
-`Gallery logotype`
+`Current Gallery logotype`
 
 ## Inspiration 
 
 I was looking for an inspiration to create an industrial visual identity. It wasn't easy right at the begenning, because a wasn't sure, how much industriality I want to bring to the visual identity of the gallery. I wanted to represent art also. 
+
+
+![inspiration](./img/inspiration.png)
+
+## First attempt
+
+I created a logotype, that wasn't working well. The typography was too simple and it didn't represent the institution like I wanted. I wanted to create a new visual identity that would reflect the reality of the town and its industrial spirit. I was working with only one industrial symbol - a hook. With the help of my other classmates, we decided that this visual style is not enough and that I would have struggles of defending it at the final exams.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
