@@ -6,6 +6,8 @@ The theoretical part of the thesis is first defining the concept of graphic desi
 
 The practical part focuses on creating a functioning unified visual style that will be suitable for this segment and will serve as an element to communicate with the inhabitants of the city and the region and will be suitable for raising awareness of the cultural industry in the Třinec region.
 
+The aim of my bachelor thesis is to unify the industrial and artistic visual identity, which would communicate well in a given market segment. With this work, I would like to raise awareness of the gallery in society and focus on communication with local people who come into at least contact with art. The final visual solution should help to elevate The Art Gallery of Třinec to a better quality level, and at the same time support the cultural industry, which is not widespread in the Třinec region.
+
 Keywords: brand, visual identity, graphic design, gallery, cultural industry, metallurgy.
 
 ## Why I chose Visual Indentity of Třinec Gallery as my thesis statement
@@ -15,3 +17,8 @@ My bachelor's thesis focuses on the complete visual identity of The Art Gallery 
 ![gallery_logo](./img/gallery_logo.jpg)
 
 `Gallery logotype`
+
+## Inspiration 
+
+I was looking for an inspiration to create an industrial visual identity. It wasn't easy right at the begenning, because a wasn't sure, how much industriality I want to bring to the visual identity of the gallery. I wanted to represent art also. 
+
