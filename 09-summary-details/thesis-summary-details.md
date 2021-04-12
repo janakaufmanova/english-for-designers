@@ -38,6 +38,18 @@ The idea of the whole visual indentity lies in the connection of industry and ar
 The overall concept of a unified visual style is based on the industriality of the city, which is dominated by Třinecké železárny. The main distinguishing feature of Třinecké železárny are hammers that justify the metallurgical industry. This symbol appears both on the logo of Třinecké železárny and on the Třinec emblem itself. It can therefore be considered the main identifying element of Třinec.
 
 
+![direction](./img/direction.png)
+
+## Second and final attempt
+
+The symbolic representation of the hammer also becomes part of the new industrial visual style of the Třinec City Gallery. The letter t corresponds to the shape of a hammer and at the same time justifies the name of the city in which the gallery is located. The connecting element of the logo is also the letter g, which represents the gallery and addresses the target group.
+The most important element of the logo and the whole visual style lies in the gap that is located between these two main symbols. This gap symbolizes the gap between the public and art, which the Třinec City Gallery is trying to fill.
+
+
+
+
+
+
 
 
 
