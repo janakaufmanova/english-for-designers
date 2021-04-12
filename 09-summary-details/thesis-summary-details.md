@@ -29,7 +29,7 @@ I was looking for an inspiration to create an industrial visual identity. It was
 I created a logotype, that wasn't working well. The typography was too simple and it didn't represent the institution like I wanted. I wanted to create a new visual identity that would reflect the reality of the town and its industrial spirit. I was working with only one industrial symbol - a hook. With the help of my other classmates, we decided that this visual style is not enough and that I would have struggles of defending it at the final exams.
 
 
-![first try](./img/first_try.png)
+![first try](./img/firt_try.png)
 
 
 
