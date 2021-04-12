@@ -31,6 +31,12 @@ I created a logotype, that wasn't working well. The typography was too simple an
 
 ![first try](./img/firt_try.png)
 
+## Direction
+
+The idea of the whole visual indentity lies in the connection of industry and art. The whole concept is based on a detailed analysis of the inhabitants of Třinec, who work in this industrial environment on a daily basis. The questionnaires show that the main identifying elements of Třinec are mainly Třinecké železárny (Ironworks) associated with a heavy industry. Art is therefore underestimated and very often overlooked in this industry. The target members of the Třinec Gallery are therefore residents whose culture is foreign and inaccessible. With this proposed visual style, I want to achieve that it is the combination of these two completely different counterparts that can work with each other and address the citizens of Třinec in a unique and completely atypical way.
+
+The overall concept of a unified visual style is based on the industriality of the city, which is dominated by Třinecké železárny. The main distinguishing feature of Třinecké železárny are hammers that justify the metallurgical industry. This symbol appears both on the logo of Třinecké železárny and on the Třinec emblem itself. It can therefore be considered the main identifying element of Třinec.
+
 
 
 
