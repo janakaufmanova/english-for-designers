@@ -15,6 +15,8 @@
 - [Clarity First](07-clarity-first/thesis-outline)
 - [Abstract Draft](08-abstract-draft/thesis-abstract)
 - [Summary Details](09-summary-details/thesis-summary-details)
+- [Final Presentation](09-summary-details/final_presentation)
+
 
 
 - - -
